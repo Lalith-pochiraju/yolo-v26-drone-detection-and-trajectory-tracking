@@ -74,6 +74,8 @@ The trained detector was deployed and tested on an **NVIDIA Jetson Nano**, to ch
 | `Drone-Trajectory-Dataset/X.npy`, `Y.npy` | Input (past) and target (future) windows ready for training |
 | `results/` | Plots and sample predictions from the YOLO26n test run |
 
+The detection training and LSTM-CVAE trajectory prediction code will be released after the paper's peer review.
+
 ---
 
 ## Datasets
